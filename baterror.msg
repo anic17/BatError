@@ -1,0 +1,13 @@
+0=Operation completed successfully.
+1=Operation failed.
+2=The system cannot find the file specified.
+3=The system cannot find the path specified.
+5=Access is denied.
+6=The handle is invalid.
+7=The storage control blocks were destroyed.
+8=Not enough memory resources are available to process this command.
+9=The storage control block address is invalid.
+35=The disk is full.
+403=Forbidden.
+404=Access is denied.
+9009=Command not found.
